@@ -7,5 +7,9 @@ function theBeatlesPlay(musArr, insArr) {
 }
 
 function johnLennonFacts(arr){
-  while()
+  let i = 0;
+  while(i < arr.length){
+    arr[i] = `${arr[i]} !!!`
+  }
+  return arr;
 }
