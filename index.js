@@ -3,4 +3,5 @@ function theBeatlesPlay(musArr, insArr) {
   for(i = 0; i < musArr.length && insArr.length; i++){
     newArr.push(`${musArr[i]} plays ${insArr[i]}`)
   }
+  return newArr;
 }
