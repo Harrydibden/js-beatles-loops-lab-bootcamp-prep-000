@@ -5,3 +5,7 @@ function theBeatlesPlay(musArr, insArr) {
   }
   return newArr;
 }
+
+function johnLennonFacts(arr){
+  while()
+}
